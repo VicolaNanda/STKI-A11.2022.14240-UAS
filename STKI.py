@@ -5,7 +5,6 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import MinMaxScaler
 
 # Fungsi untuk melatih model
-@st.cache
 def train_model(data):
     # Memisahkan fitur dan target
     X = data.drop('target', axis=1)
