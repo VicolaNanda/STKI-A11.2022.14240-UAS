@@ -1,1 +1,2 @@
 link streamlit cloud : https://stki-vicola-nanda.streamlit.app/
+Proyek saya ini berisi tentang prediksi pasien penyakit jantung yang berfokus dengan menggunakan Random Forest. dalam proyek ini saya mencoba membandingkan dengan 2 metode lainnya, yaitu Decision Tree dan KNN. Random Forest dan Decision tree berhasil mendapatkan akurasi sebesar 99%, sedangkan KNN hanya sebesar 86%. Maka dari itu saya menggunakan Random Forest. Saya memilih Random Forest dibanding Desicion tree dikarenakan Random Forest lebih stabil dalam menangani overfitting yang kerap terjadi di Desicion tree.
